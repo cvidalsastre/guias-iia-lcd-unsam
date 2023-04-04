@@ -1,1 +1,2 @@
-# LCD_UNSAM_GUIA_3
+# LCD_UNSAM_GUIA
+## Resolución de guias 2023
